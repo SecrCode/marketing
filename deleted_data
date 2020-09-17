@@ -1,0 +1,21 @@
+  //  if(i >= rows.length){
+        //   i = 0;
+        //   myLoop()
+        // }
+
+        //await Promise.all(client.channels.filter(c => c.id === rows[i].channel).map(c => c.send(`\`ID Reklamy:${rows[i].IDR}\n============\`\n\n`+rows[i].Reklama)))
+
+        // console.log(rows[0].channel)
+        // if(!channel_2){
+        //   myLoop()
+        //   return
+        //
+        //  }else
+        //For my host
+// var reqTimer = setTimeout(function wakeUp() {
+//   request("", function() {
+//      console.log("WAKE UP DYNO");
+//   });
+//   return reqTimer = setTimeout(wakeUp, 1200000);
+// }, 1200000);
+//.listen(process.env.PORT || 5000)

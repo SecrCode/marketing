@@ -1,0 +1,21 @@
+{
+  "name": "marketing_beta",
+  "version": "1.0.0",
+  "description": "Marketing Bot Beta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node shards.js"
+  },
+  "keywords": [],
+  "author": "Exclusive",
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
