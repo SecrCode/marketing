@@ -158,7 +158,7 @@ console.log(client.ws.ping)
 });
 
 client.on("error", () => {
-  console.log("» BOT STATUS: ⛔️ OFF [ERROR WAS OCCURNED]");
+  console.log("» BOT STATUS: ⛔️ OFF [ERROR WAS OCCURRED]");
 })
 
 client.login(config.token);
