@@ -1,4 +1,4 @@
-Profesjonalny Developer Mondonno [ Exclusive ] Mógł zabezpieczyć kod zjebanym kodem więc może nie działać.
+Profesjonalny Developer Mondonno [ Exclusive ] Mógł zabezpieczyć pliki zjebanym kodem więc może nie działać.
 
 Aktualna wersja:
 - 3.0.0 Beta
